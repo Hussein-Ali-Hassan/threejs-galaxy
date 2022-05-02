@@ -1,0 +1,13 @@
+{
+  "name": "galaxy",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview --host"
+  },
+  "devDependencies": {
+    "vite": "^2.9.5"
+  }
+}
